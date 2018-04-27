@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "hello man"
+
+echo "------------"
+echo " Hello man! "
+echo "------------"
+echo "  kabartay  "
